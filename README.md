@@ -14,6 +14,11 @@ python-project-collection
 
 3. 如发现缺少某些库，直接用pip安装对应的库即可。
 
+## 版本更新
+
+- v1.1.0 补充两个特殊项目：1.Python实现颜值检测，2.坦克大战。因为资料比较大，占容量，不添加到代码库，将直接以二进制形式发布。
+
+- v1.0.0 第一次发布，主要是的小项目源代码。 
 
 ## 特别声明
 
@@ -26,4 +31,4 @@ python-project-collection
 
 ## License
 
-MIT
+[MIT](https://github.com/yansheng836/python-project-collection/blob/master/LICENSE.txt)
