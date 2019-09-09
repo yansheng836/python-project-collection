@@ -18,6 +18,8 @@ python-project-collection
 
 - v1.1.0 补充两个特殊项目：1.Python实现颜值检测，2.坦克大战。因为资料比较大，占容量，不添加到代码库，将直接以二进制形式发布。
 
+  说明：这次发布进这两个项目，没有之前的内容，以后一般也不再更新这两个项目内容，如有需要，直接到 [v1.1.0发布版本](https://github.com/yansheng836/python-project-collection/releases/tag/v1.1.0) 进行下载。
+
 - v1.0.0 第一次发布，主要是的小项目源代码。 
 
 ## 特别声明
