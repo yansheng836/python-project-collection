@@ -113,3 +113,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 忽略发布文件夹下全部内容
+/发布/*
